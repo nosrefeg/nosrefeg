@@ -4,7 +4,6 @@
 **nosrefeg/nosrefeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :computer: Currently learning Python
-- 🤔 I’m looking for help with Python OO
 - 💬 Ask me about anything! If I don't know, maybe you can teach me!
 - 📫 How to reach me: 
 -       => twitter: @Gessu__
